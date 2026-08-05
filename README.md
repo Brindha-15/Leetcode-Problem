@@ -162,14 +162,4 @@ Each solution follows these standards:
 
 ---
 
-# 🤝 Support
-
-If you find this repository helpful,
-
-⭐ **Give it a Star**
-
-It motivates me to continue learning and sharing my solutions.
-
----
-
 <h3 align="center">💻 Happy Coding! 🚀 Keep Learning • Keep Growing 🌟</h3>
