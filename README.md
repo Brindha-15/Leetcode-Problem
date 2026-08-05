@@ -5,10 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-  <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk"/>
-  <img src="https://img.shields.io/badge/Database-SQL-blue?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+<a href="https://leetcode.com/Brindha_15/" target="_blank">
+<img src="https://img.shields.io/badge/Platform-LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk"/>
+
+<img src="https://img.shields.io/badge/Database-SQL-blue?style=for-the-badge&logo=mysql"/>
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
 </p>
 
 ---
